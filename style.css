@@ -1,0 +1,22 @@
+
+
+ nav li a {
+     color: greenyellow;
+     
+ }
+
+div {
+    background:red;
+    height:100px; 
+    width: 300px; 
+    display: inline-block;
+}
+
+span {
+    background:greenyellow;
+    height:100px; 
+    width: 300px; 
+    display: block;
+  
+}
+
