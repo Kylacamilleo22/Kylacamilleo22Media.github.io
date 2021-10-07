@@ -48,6 +48,10 @@ background-color:rgba(247, 231, 201, 0.801);
     margin: 10px 20px 10px 20px;  
 }
 
+.best summary {
+  color: rgb(44, 27, 3);
+}
+
 .dog-or-cat {
     width: 500px;
     border: 10px double rgba(255, 255, 255, 0.938);
@@ -64,6 +68,9 @@ details {
     background-color: rgba(247, 231, 201, 0.801);
     padding: 20px 15px 20px 15px;
     margin: 10px 15px 10px 15px;
+}
+.dog-or-cat summary {
+  color: rgb(44, 27, 3);
 }
 
 footer {
